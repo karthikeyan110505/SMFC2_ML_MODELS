@@ -1,0 +1,13 @@
+# Basic Python data handling
+numpy==1.26.4
+pandas==2.2.2
+
+# Machine Learning (for Ridge regression & scaling)
+scikit-learn==1.4.2
+
+# Visualization
+matplotlib==3.9.0
+seaborn==0.13.2
+
+# Jupyter (if you're running notebooks interactively)
+jupyter==1.0.0
